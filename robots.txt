@@ -80,4 +80,4 @@ Allow: /
 User-agent: kakaotalk-scrap
 Allow: /
 
-Sitemap: https://www.apcode.co.kr/sitemap.xml
+Sitemap: https://apcode.co.kr/sitemap.xml
