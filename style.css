@@ -137,6 +137,9 @@ ul{list-style:none}
   letter-spacing:.14em;line-height:1.05;color:#fff;
   text-shadow:0 0 32px rgba(255,46,196,.35);
 }
+.hero-mini{
+  font-size:.82rem;letter-spacing:.5em;color:var(--dim);margin-top:10px;text-indent:.5em;
+}
 .hero-sub{
   font-family:var(--font-serif);font-style:italic;font-size:clamp(1rem,2.4vw,1.5rem);
   letter-spacing:.28em;color:var(--dim);margin-top:8px;
@@ -486,7 +489,7 @@ footer .f-links a:hover{color:var(--neon)}
 @media(prefers-reduced-motion:reduce){.mq-track{animation:none}}
 
 /* 3) 섹션 고스트 워터마크 */
-.ghost{
+.wm{
   position:absolute;top:44px;right:2%;z-index:0;pointer-events:none;user-select:none;
   font-family:var(--font-disp);font-weight:900;font-size:clamp(4rem,11vw,9.5rem);
   letter-spacing:.08em;line-height:1;color:transparent;
@@ -525,10 +528,10 @@ footer .f-links a:hover{color:var(--neon)}
   .duo .slider-wrap{margin:0 auto;max-width:520px;width:100%}
   .duo.rev .slider-wrap{order:2}
   .duo.rev .duo-side{order:1}
-  .ghost{font-size:clamp(3rem,14vw,5rem);top:28px;opacity:.6}
+  .wm{font-size:clamp(3rem,14vw,5rem);top:28px;opacity:.6}
 }
 @media(max-width:640px){
-  .ghost{display:none}
+  .wm{display:none}
   .mq-track span{font-size:.62rem}
   .fact-list b{font-size:.8rem}
 }
