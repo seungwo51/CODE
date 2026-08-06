@@ -1,15 +1,45 @@
+# 모든 크롤러 기본 허용
 User-agent: *
 Allow: /
 
+# ── 검색엔진 ──
 User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
 Allow: /
 
 User-agent: Yeti
 Allow: /
 
+User-agent: NaverBot
+Allow: /
+
+User-agent: Daumoa
+Allow: /
+
 User-agent: Bingbot
 Allow: /
 
+User-agent: msnbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+# ── AI / LLM 크롤러 ──
 User-agent: GPTBot
 Allow: /
 
@@ -38,6 +68,16 @@ User-agent: Amazonbot
 Allow: /
 
 User-agent: cohere-ai
+Allow: /
+
+# ── SNS 미리보기 ──
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: kakaotalk-scrap
 Allow: /
 
 Sitemap: https://www.apcode.co.kr/sitemap.xml
