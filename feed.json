@@ -16,9 +16,16 @@
   {
    "id": "https://apcode.co.kr/apgujeong-club-recommend/",
    "url": "https://apcode.co.kr/apgujeong-club-recommend/",
-   "title": "압구정 클럽 추천 | 압구정 코드 라운지 가이드",
-   "content_text": "2026년 기준 운영 중인 압구정 클럽 라운지(컬러·코어·DM·하입·코드) 현황과 힙합·EDM 장르별 추천 기준.",
-   "date_published": "2026-08-06T09:00:00+09:00"
+   "title": "압구정 클럽 라운지 추천 | 압구정 코드 라운지",
+   "content_text": "압구정 클럽 라운지 추천, 어디로 가면 될까요? 2026년 운영 중인 압구정 클럽 라운지 5곳의 장르와 분위기, 일행 구성별 고르는 기준, 게스트·스탠딩·테이블 입장 방법과 비용까지 한 번에 정리했습니다.",
+   "date_published": "2026-10-02T09:00:00+09:00"
+  },
+  {
+   "id": "https://apcode.co.kr/apgujeong-club-ranking/",
+   "url": "https://apcode.co.kr/apgujeong-club-ranking/",
+   "title": "압구정 클럽 라운지 순위 정리 | 압구정 코드 라운지",
+   "content_text": "압구정 클럽 라운지 순위, 지금 기준으로는 어떻게 될까요? 순위를 매기는 기준, 운영 중인 업장별 장르와 분위기, 순위가 자주 바뀌는 이유, 폐업·신규 업장, 상위 업장 입장 방법과 테이블 가격까지 정리했습니다.",
+   "date_published": "2026-10-02T09:00:00+09:00"
   },
   {
    "id": "https://apcode.co.kr/apgujeong-club-street/",
@@ -30,30 +37,30 @@
   {
    "id": "https://apcode.co.kr/apgujeong-club-review/",
    "url": "https://apcode.co.kr/apgujeong-club-review/",
-   "title": "압구정 클럽 후기 | 압구정 코드 라운지 가이드",
-   "content_text": "오픈 시간부터 피크타임(00시~05시), 연령대와 성비, 현장 분위기까지 실제 방문 흐름 정리.",
-   "date_published": "2026-08-06T09:00:00+09:00"
-  },
-  {
-   "id": "https://apcode.co.kr/apgujeong-club-price/",
-   "url": "https://apcode.co.kr/apgujeong-club-price/",
-   "title": "압구정 클럽 가격 | 압구정 코드 라운지 가이드",
-   "content_text": "스탠딩 1~2바틀, 테이블 4바틀 시작 기준과 추천 주류 조합, 금·토 자리별 예약 가이드.",
-   "date_published": "2026-08-06T09:00:00+09:00"
+   "title": "압구정 클럽 라운지 후기 모음 | 압구정 코드 라운지",
+   "content_text": "압구정 클럽 라운지 후기 모음, 실제로 가 보면 어떨까요? 공간과 혼잡도, 음악과 손님 스타일, 헌팅·합석 분위기, 게스트와 테이블 실지출, 아쉬운 점, 광고성 후기 걸러 내는 법까지 정리했습니다.",
+   "date_published": "2026-10-02T09:00:00+09:00"
   },
   {
    "id": "https://apcode.co.kr/apgujeong-club-guest/",
    "url": "https://apcode.co.kr/apgujeong-club-guest/",
-   "title": "압구정 클럽 게스트 | 압구정 코드 라운지 가이드",
-   "content_text": "압구정 라운지 게스트 무료입장 조건, 드레스코드, 입뺀(입장 제한) 기준.",
-   "date_published": "2026-08-06T09:00:00+09:00"
+   "title": "압구정 클럽 라운지 게스트 입장 | 압구정 코드 라운지",
+   "content_text": "압구정 클럽 라운지 게스트 입장, 무료로 들어갈 수 있을까요? 게스트 입장 방식, 여성·남성 게스트 차이, 등록 방법과 전달할 정보, 신분증과 복장, 당일 성비 영향, 게스트 혜택과 입장이 막혔을 때 대처법까지 정리했습니다.",
+   "date_published": "2026-10-02T09:00:00+09:00"
+  },
+  {
+   "id": "https://apcode.co.kr/apgujeong-club-entry-refusal/",
+   "url": "https://apcode.co.kr/apgujeong-club-entry-refusal/",
+   "title": "압구정 클럽 라운지 입뺀 당하는 이유 | 압구정 코드 라운지",
+   "content_text": "압구정 클럽 라운지 입뺀 당하는 이유는 무엇일까요? 클럽과 비교한 입장 분위기, 복장·나이·신분증·태도·성비별 입뺀 이유, 남녀 입장 차이, 입뺀 피하는 방법과 입뺀 당했을 때 대처법까지 정리했습니다.",
+   "date_published": "2026-10-02T09:00:00+09:00"
   },
   {
    "id": "https://apcode.co.kr/apgujeong-club-table/",
    "url": "https://apcode.co.kr/apgujeong-club-table/",
-   "title": "압구정 클럽 테이블 | 압구정 코드 라운지 가이드",
-   "content_text": "압구정 라운지 테이블 T·D·V·ROOM·STANDING 존 구성과 금·토 자리별 예약금, 부가 서비스.",
-   "date_published": "2026-08-06T09:00:00+09:00"
+   "title": "압구정 클럽 라운지 테이블 가격 | 압구정 코드 라운지",
+   "content_text": "압구정 클럽 라운지 테이블 가격, 얼마부터 시작할까요? 게스트·스탠딩·테이블별 비용, 구역별 최소 금액, 바틀 세트와 테이블 차지, 비딩과 조판, 예약·취소 기준, 비용 줄이는 방법까지 정리했습니다.",
+   "date_published": "2026-10-02T09:00:00+09:00"
   }
  ]
 }

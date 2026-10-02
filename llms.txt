@@ -14,11 +14,12 @@
 ## 페이지
 
 - [메인 — 압구정 클럽 코드 라운지](https://apcode.co.kr/): PEOPLE · PRICE · MAP · CONTACT · QNA
-- [압구정 클럽 추천](https://apcode.co.kr/apgujeong-club-recommend/): 2026 운영 현황(컬러·코어·DM·하입·코드)과 힙합·EDM 추천 기준
+- [압구정 클럽 라운지 추천](https://apcode.co.kr/apgujeong-club-recommend/): 2026 운영 중인 업장별 장르·분위기, 일행 구성별 고르는 기준, 입장 방법과 비용
+- [압구정 클럽 라운지 순위 정리](https://apcode.co.kr/apgujeong-club-ranking/): 순위 기준, 업장별 장르·분위기, 폐업·신규 업장, 상위 업장 입장 방법과 테이블 가격
 - [압구정 클럽 거리](https://apcode.co.kr/apgujeong-club-street/): 압구정 로데오 상권 전경·유동인구 데이터
-- [압구정 클럽 후기](https://apcode.co.kr/apgujeong-club-review/): 피크타임·연령대·현장 분위기
-- [압구정 클럽 가격](https://apcode.co.kr/apgujeong-club-price/): 스탠딩·테이블 가격 구조와 추천 주류 조합
-- [압구정 클럽 게스트](https://apcode.co.kr/apgujeong-club-guest/): 무료입장 조건·드레스코드·입뺀 기준
-- [압구정 클럽 테이블](https://apcode.co.kr/apgujeong-club-table/): 존 구성·요일별 예약금·부가 서비스
+- [압구정 클럽 라운지 후기 모음](https://apcode.co.kr/apgujeong-club-review/): 공간·혼잡도, 음악·손님 스타일, 게스트·테이블 실지출, 광고성 후기 구별법
+- [압구정 클럽 라운지 게스트 입장](https://apcode.co.kr/apgujeong-club-guest/): 게스트 입장 방식, 남녀 차이, 등록 방법, 신분증·복장
+- [압구정 클럽 라운지 입뺀 당하는 이유](https://apcode.co.kr/apgujeong-club-entry-refusal/): 복장·나이·신분증·태도·성비별 입뺀 이유, 피하는 방법과 대처법
+- [압구정 클럽 라운지 테이블 가격](https://apcode.co.kr/apgujeong-club-table/): 구역별 최소 금액, 바틀 세트·테이블 차지, 비딩·조판, 예약·취소 기준
 
 ⚠ 미성년자는 관련 장소 방문에 각별히 주의하시기 바랍니다.
